@@ -1,2 +1,2 @@
-# My Project 
-"# my-project" 
+# My Project
+This is my GitHub assignment project.
